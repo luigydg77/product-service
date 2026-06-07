@@ -1,0 +1,10 @@
+C:\git\micro\src\main\java\com\example\productservice\config\SecurityConfig.java
+C:\git\micro\src\main\java\com\example\productservice\controller\ProductController.java
+C:\git\micro\src\main\java\com\example\productservice\dto\ProductRequest.java
+C:\git\micro\src\main\java\com\example\productservice\dto\ProductResponse.java
+C:\git\micro\src\main\java\com\example\productservice\exception\GlobalExceptionHandler.java
+C:\git\micro\src\main\java\com\example\productservice\model\Product.java
+C:\git\micro\src\main\java\com\example\productservice\ProductServiceApplication.java
+C:\git\micro\src\main\java\com\example\productservice\repository\ProductRepository.java
+C:\git\micro\src\main\java\com\example\productservice\service\impl\ProductServiceImpl.java
+C:\git\micro\src\main\java\com\example\productservice\service\ProductService.java
