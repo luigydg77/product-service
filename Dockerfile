@@ -7,6 +7,8 @@ COPY . .
 RUN chmod +x mvnw
 RUN ./mvnw clean package -DskipTests
 
+RUN ls -la target
+
 EXPOSE 8080
 
-ENTRYPOINT ["java","-jar","target/product-service-0.0.1-SNAPSHOT.jar"]
+ENTRYPOINT ["sleep","3600"]
